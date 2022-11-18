@@ -1,0 +1,12 @@
+*{
+  text-decoration: none;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.mat-toolbar{
+  background-color: rgb(228, 228, 228);
+  border-radius: 20px;
+}
